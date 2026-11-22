@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.NoOneChat" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#080B14</item>
+        <item name="android:navigationBarColor">#080B14</item>
+        <item name="android:windowBackground">#080B14</item>
+        <item name="android:colorPrimary">#1677FF</item>
+    </style>
+</resources>
